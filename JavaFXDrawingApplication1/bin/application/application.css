@@ -1,0 +1,51 @@
+/* JavaFX CSS - Leave this comment until you have at least created one rule which uses -fx-Property */
+
+
+
+
+/* MenuItems */
+.menu-item {
+    -fx-background-color: #FFA500; /* Black background  */   
+    -fx-font-size: 14px;         
+    -fx-font-weight: bold;   
+    -fx-dark-text-color: black;
+    -fx-mid-text-color: black;
+    -fx-light-text-color :#FFA500;
+}
+.menu-item:hover {
+    -fx-background-color: #000000; 
+     -fx-text-fill: #FF2500;
+     -fx-font-color: #FF2500; 
+}
+
+.rectangleButton {
+    -fx-background-color: #FF2500; /* Orange */
+}
+
+.circleButton {
+    -fx-background-color: #FF2500; /* Orange */
+    
+}
+
+/* Style for the ComboBox itself */
+.comboBox {
+    -fx-background-color: #FF2500; /* Orange background */
+    -fx-text-fill: white;           /* White font for selected item */
+    -fx-font-weight: bold;
+    -fx-pref-width: 105.0px;
+    -fx-pref-height: 10.0px;
+}
+
+/* Style for ComboBox's dropdown items */
+.comboBox .list-cell {
+    -fx-background-color: #FF2500; /* Orange background */
+    -fx-text-fill: white;           /* White font for dropdown items */
+    -fx-font-weight: bold;
+}
+
+/* Optional: Hover effect for ComboBox dropdown items */
+.comboBox .list-cell:hover {
+    -fx-background-color: #FFA500;
+         -fx-text-fill: #000000;
+    
+}

@@ -1,0 +1,21 @@
+Student ID,Name,Tawjihi Grade,Placement Test Grade,Chosen Major
+1,Alice Johnson,98,90,Computer Science
+2,Adam Khabisa,82,91,Computer Science
+3,Ahmad Yaseen,88,86,Accounting
+4,Nizar Flyyan,89,94,Medicine
+5,Hussain Yousef,90,83,Civil Engineering
+6,Layla Smith,95,92,Electrical Engineering
+7,Sara Ahmed,80,85,Medicine
+8,Omar Malik,76,88,Law
+9,Rami Qasim,87,79,Mechanical Engineering
+10,Zara Thomas,93,91,Software Engineering
+11,Farah Ali,85,84,Marketing
+12,Khalid Zidan,78,82,Economics
+13,Yara Hadi,89,87,Business Administration
+14,Amal Jaber,92,90,Computer Science
+15,Sameer Fakhoury,88,89,Civil Engineering
+16,Tariq Matar,83,81,Medicine
+17,Leila Shaheen,77,86,Political Science
+18,Jawad Barakat,91,92,Computer Science
+19,Mona Saad,86,84,Pharmacy
+20,Samir Najjar,79,85,Architecture

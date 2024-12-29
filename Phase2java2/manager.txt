@@ -1,0 +1,15 @@
+Family khabisa
+..............
+LivePerson,1210475,adam,20,m,kobar,0593639342,Role
+Martyr,222,yousef,8,m,kobar,2222,1-1-2000,not dead just checkin martyr option if it's working or not ,kobar,Role
+LivePerson,111,mohammad,50,m,kobar,0555555Dad
+
+Family yousef
+..............
+LivePerson,1222,hussain,20,m,abu shkheidem,02555,Role
+Martyr,122,khaled,17,m,abu shkheidem,1165,7-10-2003,nothing,bzu,Role
+
+Family jayousi
+..............
+LivePerson,121,ali,18,m,nablus,024564,Role
+
